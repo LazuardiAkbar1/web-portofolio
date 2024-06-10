@@ -3,6 +3,10 @@
 ## Screenshot
 
 ### Halaman Utama
-![Halaman Utama](images/gambar/gambar1.jpeg)
-(images/gambar/gambar2.jpeg)
-(images/gambar/gambar3.jpeg)
+![Halaman Utama](images/ss1.png)
+
+### Halaman Pengalaman
+![Halaman Tentang](images/ss2.png)
+
+### Halaman Kontak
+![Halaman Kontak](images/ss3.png)
